@@ -7,3 +7,6 @@ acpi.sys is 325.600 bytes, hal.dll is 233.456 bytes.
 Hope it works for you
 
 ENJOY!
+
+
+IMPORTANT UPDATE!!!!!!!!!!!!!!!!: I got the boot loop with WinNTSetup i dont know what is gonna happen in Rufus or VENTOY
